@@ -1,3 +1,5 @@
 doğal dil işleme yapay zekanın önemli bir alanıdır.
 
 en az üretken yapay zeka kadar önemlidir.
+
+bunu da öğrenmemiz lazım.
